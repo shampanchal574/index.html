@@ -1,3 +1,7 @@
+<script>
+const API_URL = "https://skill-platform-backend.onrender.com";
+</script>
+
 const API = "http://127.0.0.1:8000";
 
 function signup(){
